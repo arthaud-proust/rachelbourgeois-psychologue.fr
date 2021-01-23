@@ -22,13 +22,13 @@
 
     <title>Rachel Bourgeois - Psychologue en Gironde</title>
     <meta name="subject" content="psychologue">
-    <meta name="description" content="Mes compétences de psychologue clinicienne au service de votre bien-être et de votre santé psychique. Consultations Thérapeutiques: thérapie brève, thérapie de soutien, thérapie analytique, thérapie de couple. Ateliers: Art-thérapie, écriture autobiographique, relaxation et méditation." />
+    <meta name="description" content="Mes compétences de psychologue clinicienne à Bordeaux au service de votre bien-être et de votre santé psychique - Rachel Bourgeois " />
     <meta name="keywords" content="rachel, bourgeois, psycholoque, bordeaux, gironde">
     <meta name="theme-color" content="#176c83">
 
     <meta property="og:title" content="Psychologue en Gironde" />
     <meta property="og:type" content="website" />
-    <meta property="og:description" content="Mes compétences de psychologue clinicienne au service de votre bien-être et de votre santé psychique. Consultations Thérapeutiques: thérapie brève, thérapie de soutien, thérapie analytique, thérapie de couple. Ateliers: Art-thérapie, écriture autobiographique, relaxation et méditation." />
+    <meta property="og:description" content="Mes compétences de psychologue clinicienne à Bordeaux au service de votre bien-être et de votre santé psychique - Rachel Bourgeois " />
     <meta property="og:site_name" content="Rachel Bourgeois" />
     <meta property="og:url" content="rachelbourgeois-psychologue.fr" />
     <meta property="og:locale" content="fr" />
@@ -36,7 +36,7 @@
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Rachel Bourgeois - Psychologue en Gironde" />
-    <meta name="twitter:description" content="Mes compétences de psychologue clinicienne au service de votre bien-être et de votre santé psychique. Consultations Thérapeutiques: thérapie brève, thérapie de soutien, thérapie analytique, thérapie de couple. Ateliers: Art-thérapie, écriture autobiographique, relaxation et méditation." />
+    <meta name="twitter:description" content="Mes compétences de psychologue clinicienne à Bordeaux au service de votre bien-être et de votre santé psychique - Rachel Bourgeois " />
     <meta name="twitter:site" content="rachelbourgeois-psychologue.fr" />
     <meta name="twitter:image" content="https://rachelbourgeois-psychologue.fr/assets/img/apple/apple-touch-icon-180x180.png" />
 
